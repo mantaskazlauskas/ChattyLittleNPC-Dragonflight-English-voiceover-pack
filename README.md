@@ -1,1 +1,2 @@
-# ChattyLittleNPC-Dragonflight-English-voiceover-pack
+# ChattyLittleNPC - Dragonflight English AI Voiceover Pack
+This is an AI-generated English voiceover pack designed for the ChattyLittleNPC addon, specifically tailored for the World of Warcraft: Dragonflight expansion. Enhance your in-game experience with immersive AI voiceovers for NPC dialogues and interactions throughout the Dragon Isles and beyond. Simply install this pack alongside the ChattyLittleNPC addon to bring your Dragonflight adventures with spoken NPC lines
