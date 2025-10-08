@@ -1,8 +1,8 @@
-## Interface: 110200
+## Interface: 110205
 ## Title: Chatty Little NPC: Dragonflight
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
-## Version: 1.1.6
+## Version: 1.1.5
 ## Dependencies: ChattyLittleNPC
 
 embeds.xml
