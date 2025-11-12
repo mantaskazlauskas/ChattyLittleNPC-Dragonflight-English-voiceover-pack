@@ -1,5 +1,5 @@
 ---@class ChattyLittleNpc_Dragonflight_voiceovers
-local ChattyLittleNpc_Dragonflight_voiceovers = LibStub("AceAddon-3.0"):GetAddon("ChattyLittleNpc_Dragonflight_voiceovers")
+local ChattyLittleNpc_Dragonflight_voiceovers = _G["ChattyLittleNpc_Dragonflight_voiceovers"]
 
 ChattyLittleNpc_Dragonflight_voiceovers.Voiceovers = {
     '11356_Desc.ogg',
