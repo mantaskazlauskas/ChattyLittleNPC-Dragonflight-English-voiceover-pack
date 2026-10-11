@@ -1,4 +1,4 @@
-## Interface: 120105, 121000, 120007
+## Interface: 120105, 120100, 120007
 ## Title: Chatty Little NPC: Dragonflight
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
