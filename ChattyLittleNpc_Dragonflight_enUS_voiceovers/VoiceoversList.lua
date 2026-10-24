@@ -1,7 +1,7 @@
----@class ChattyLittleNpc_Dragonflight_voiceovers
-local ChattyLittleNpc_Dragonflight_voiceovers = _G["ChattyLittleNpc_Dragonflight_voiceovers"]
+---@class ChattyLittleNpc_Dragonflight_enUS_voiceovers
+local ChattyLittleNpc_Dragonflight_enUS_voiceovers = _G["ChattyLittleNpc_Dragonflight_enUS_voiceovers"]
 
-ChattyLittleNpc_Dragonflight_voiceovers.Voiceovers = {
+ChattyLittleNpc_Dragonflight_enUS_voiceovers.Voiceovers = {
     '11356_Desc.ogg',
     '181198_Gossip_4b9c3fe35f4cdd6800f36a4ee5be088f.ogg',
     '181198_Gossip_8d02374950f2c5a6459f01cfce6e35bd.ogg',
@@ -9996,7 +9996,7 @@ ChattyLittleNpc_Dragonflight_voiceovers.Voiceovers = {
     '83795_Prog.ogg',
 }
 
-ChattyLittleNpc_Dragonflight_voiceovers.VoiceoverDurations = {
+ChattyLittleNpc_Dragonflight_enUS_voiceovers.VoiceoverDurations = {
     ["11356_Desc.ogg"] = 22.12,
     ["181198_Gossip_4b9c3fe35f4cdd6800f36a4ee5be088f.ogg"] = 4.92,
     ["181198_Gossip_8d02374950f2c5a6459f01cfce6e35bd.ogg"] = 29.83,
